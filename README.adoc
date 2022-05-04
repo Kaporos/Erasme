@@ -4,17 +4,22 @@ Théo Daron - Cory De Groote - Léa Durant
 :title-page:
 :toc-title: Table des matières
 
-TODO: Plan de l'exposé
 
-== Biographie 
+== Plan de l'exposé
 
-Comme nous l'indique le site _Babelio_, un blog dirigé par 3 passionés de livres, Érasme est né aux alentours des années 1465, une date plus précise n'est pas possible, étant donné qu'il est l'enfant illégitime d'un prêtre et d'une fille de médecin. Lors de sa scolarité, il sera remarqué par l'église qui assurera son éducation et qui lui donnera une excellente formation de  _latiniste_.
+Alors bonjour a tous ! Nous allons donc vous parler d'Erasme. Nous commencerons par brièvement vous expliquer ses origines et le cours de sa vie, avant d'analyser deux de ses oeuvres, *Novum Instrumentum* ainsi qu'*Éloge de la folie*.
 
-Érasme peut être qualifié de *self-made man*, il s'est construit en partant de rien, il n'est pas né privilégié.
+== Biographie
 
-Ensuite, vers ses 18 ans, il deviendra moine, pour ensuite devenir prêtre quelques années plus tard. Mais il s'arrangera pour avoir une certaine liberté, et il partira en voyage à travers toute l'Europe, et c'est lors de ces voyages qu'il va intégrer des cercles humanistes, et qu'il écrira quelques manuels.
+D'après le site _Babelio_, un blog dirigé par 3 passionés de livres, Érasme serait né aux alentours des années 1465, une date plus précise n'est pas possible étant donné qu'Érasme est l'enfant illégitime d'un prêtre et d'une fille de médecin, il n'a donc pas été formellement déclaré à sa naissance.
 
-Pendant ses voyages, vers les années 1500, Erasme se rendra en Angleterre, et c'est la qu'il rencontrera entre autres *Thomas More*, dont nous allons reparler plus tard. En 1503 sortira le _Manuel du soldat chrétien_, un livre défendant un christianisme épuré. 
+Lors de sa scolarité, il sera remarqué par l'église qui assurera son éducation et qui lui donnera une excellente formation de  _latiniste_.
+
+Érasme peut être qualifié de *self-made man*, c'est a dire qu'il s'est construit en partant de rien, il n'est pas né privilégié.
+
+Ensuite vers ses 18 ans, il deviendra moine, pour ensuite devenir prêtre quelques années plus tard. Mais il s'arrangera pour avoir une certaine liberté, et il partira en voyage à travers toute l'Europe, et lors de ces voyages, il va intégrer des cercles humanistes, et il écrira également quelques manuels.
+
+Pendant ses voyages, vers les années 1500, Erasme se rendra en Angleterre, et il y rencontrera plusieurs figures importantes du courant humaniste, comme *Thomas More*, dont nous allons reparler plus tard. En 1503 sortira le _Manuel du soldat chrétien_, un livre défendant un christianisme épuré. 
 
 Il continuera ses voyages à travers l'Europe et reviendra en Angleterre, et lors de sa troisième visite, il écrira _Éloge de la folie_, livre dont nous allons reparler plus tard.
 
@@ -32,13 +37,21 @@ De plus, Érasme choisira de s'exprimer uniquement en _latin_, afin d'être comp
 
 Pour le côté religieux, Érasme passera sa vie au milieu d'un grand dilemme, entre les chrétiens et les protestants. Il restera fidèle a la religion catholique, même s'il adhérait avec toutes les idées et projets des protestants. <<Lacharite>>
 
+== Novum Instrumentum
 
+TODO: Trouver du contenu mdr
 
 == Éloge de la folie
 
 === Le livre en général
 
-L'éloge de la folie est une *déclamation*. C'est a dire qu'elle est avant tout destinée a être lue et interpretée à voie haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes.
+L'éloge de la folie est une *déclamation*. C'est a dire qu'elle est avant tout destinée a être lue et interpretée à voie haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes. En faisant cela, Érasme fait revenir un genre littéraire de l'Antiquité, l'éloge paradoxale. On retrouve donc ici encore une caractéristique de l'humanisme.Ce genre littéraire vise justement à faire l'éloge de ce qui est habituellement blâmé, la folie en l'occurence dans ce texte. Dans sa préface (la première partie du livre, précédant l'oeuvre), Érasme cite l'éloge de la mouche, une oeuvre Antique du même genre.
+
+Érasme va dédier ce livre a *Thomas More*, figure célèbre de l'humanisme dont nous avons déja précédemment parlé, non pas parce qu'il le trouvait fou, mais à cause d'un simple jeu de mot. En latin, la folie se dit _Moria_, ce qui ressemble a _More_, le nom de famille de Thomas. <<Lacharite>>
+
+=== Analyse de deux extraits
+
+
 
 [bibliography]
 == Bibliographie
