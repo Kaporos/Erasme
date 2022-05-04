@@ -1,0 +1,50 @@
+= Érasme
+Théo Daron - Cory De Groote - Léa Durant
+:toc:
+:title-page:
+:toc-title: Table des matières
+
+TODO: Plan de l'exposé
+
+== Biographie 
+
+Comme nous l'indique le site _Babelio_, un blog dirigé par 3 passionés de livres, Érasme est né aux alentours des années 1465, une date plus précise n'est pas possible, étant donné qu'il est l'enfant illégitime d'un prêtre et d'une fille de médecin. Lors de sa scolarité, il sera remarqué par l'église qui assurera son éducation et qui lui donnera une excellente formation de  _latiniste_.
+
+Érasme peut être qualifié de *self-made man*, il s'est construit en partant de rien, il n'est pas né privilégié.
+
+Ensuite, vers ses 18 ans, il deviendra moine, pour ensuite devenir prêtre quelques années plus tard. Mais il s'arrangera pour avoir une certaine liberté, et il partira en voyage à travers toute l'Europe, et c'est lors de ces voyages qu'il va intégrer des cercles humanistes, et qu'il écrira quelques manuels.
+
+Pendant ses voyages, vers les années 1500, Erasme se rendra en Angleterre, et c'est la qu'il rencontrera entre autres *Thomas More*, dont nous allons reparler plus tard. En 1503 sortira le _Manuel du soldat chrétien_, un livre défendant un christianisme épuré. 
+
+Il continuera ses voyages à travers l'Europe et reviendra en Angleterre, et lors de sa troisième visite, il écrira _Éloge de la folie_, livre dont nous allons reparler plus tard.
+
+Peu après, en 1516, Érasme sortira sa propre version du nouveau testament, _Novum Instrumentum omne_. Nous allons également revenir sur cette oeuvre plus tard.
+
+Érasme finira par mourir de la maladie en 1536, à Bâle. <<Babelio>>
+
+== Caractéristiques humanistes d'Érasme
+
+Comme nous l'explique _Claude La Charité_ dans un podcast de radio-canada, Érasme est une des plus grandes figures de l'humanisme. Il a même été surnommé *Le prince des humanistes*. 
+
+Érasme se différencie des autres par son refus de donner son avis et de critiquer la politique. Il préférera aborder d'autres sujets, comme la société, la religion, ou encore l'éducation. 
+
+De plus, Érasme choisira de s'exprimer uniquement en _latin_, afin d'être compris par toute l'Europe éduquée, l'éducation étant au centre de la pensée humaniste, et donc au centre de la pensée d'Érasme. Au cours de sa vie, Érasme va maintenir un vaste réseau avec tous les gens importants en Europe, que ce soit au niveau politique, littéraire ou religieux. 
+
+Pour le côté religieux, Érasme passera sa vie au milieu d'un grand dilemme, entre les chrétiens et les protestants. Il restera fidèle a la religion catholique, même s'il adhérait avec toutes les idées et projets des protestants. <<Lacharite>>
+
+
+
+== Éloge de la folie
+
+=== Le livre en général
+
+L'éloge de la folie est une *déclamation*. C'est a dire qu'elle est avant tout destinée a être lue et interpretée à voie haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes.
+
+[bibliography]
+== Bibliographie
+
+
+* [[[Babelio]]] Erasme (auteur de éloge de la folie) - Babelio. Visité le 1 Mai 2022, sur https://www.babelio.com/auteur/-Erasme/11219
+
+
+* [[[Lacharite]]] Beauchamp, J., & Lacharité, C. (2022). Érasme, le prince des humanistes [Podcast]. Écouté le 18 avril 2022, sur https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/segments/entrevue/195225/erasme-prince-humanistes-claude-charite
