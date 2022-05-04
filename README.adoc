@@ -48,17 +48,21 @@ TODO: Trouver du contenu mdr
 
 L'éloge de la folie est une *déclamation*. C'est a dire qu'elle est avant tout destinée a être lue et interpretée à voie haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes. En faisant cela, Érasme fait revenir un genre littéraire de l'Antiquité, l'éloge paradoxale. On retrouve donc ici encore une caractéristique de l'humanisme.Ce genre littéraire vise justement à faire l'éloge de ce qui est habituellement blâmé, la folie en l'occurence dans ce texte. Dans sa préface (la première partie du livre, précédant l'oeuvre), Érasme cite l'éloge de la mouche, une oeuvre Antique du même genre.
 
-Érasme va dédier ce livre a *Thomas More*, figure célèbre de l'humanisme dont nous avons déja précédemment parlé, non pas parce qu'il le trouvait fou, mais à cause d'un simple jeu de mot. En latin, la folie se dit _Moria_, ce qui ressemble a _More_, le nom de famille de Thomas. <<Lacharite>>
+Érasme va dédier ce livre a *Thomas More*, figure célèbre de l'humanisme dont nous avons déja précédemment parlé, non pas parce qu'il le trouvait fou, mais à cause d'un simple jeu de mot. En grec, la folie se dit _Moria_, ce qui ressemble a _More_, le nom de famille de Thomas. <<Lacharite>>
 
 === Analyse de deux extraits
 
+[quote, Erasme, Éloge de la folie]
+La guerre n'est-elle pas la source et le théâtre de tous les hauts faits ? Or, quoi de plus fou que d'engager, à propos de je ne sais quoi, une pareille lutte, d'où il résulte toujours, pour les deux partis plus de mal que de bien ?
+
+Dans cet extrait, Érasme dit, au travers de la folie, que l'être humain est fou, qu'il est fou de faire la guerre et d'en tirer des actes héroïques, alors qu'au final il n'y à aucune guerre qui finisse bien pour qui que ce soit. On est donc sur une critique de l'humain. Érasme veut faire réfléchir et il veut également amener cette réflexion à un apprentissage, à une évolution des conceptions et des idées du lecteur. IL veut rendre l'être humain meilleur.   
 
 
 [bibliography]
 == Bibliographie
 
 
-* [[[Babelio]]] Erasme (auteur de éloge de la folie) - Babelio. Visité le 1 Mai 2022, sur https://www.babelio.com/auteur/-Erasme/11219
+* [[[Babelio]]] Erasme. (2020). Babelio. Consulté le 28 avril 2022, à l’adresse https://www.babelio.com/auteur/-Erasme/11219
 
 
 * [[[Lacharite]]] Beauchamp, J., & Lacharité, C. (2022). Érasme, le prince des humanistes [Podcast]. Écouté le 18 avril 2022, sur https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/segments/entrevue/195225/erasme-prince-humanistes-claude-charite
