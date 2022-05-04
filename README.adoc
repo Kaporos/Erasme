@@ -3,6 +3,7 @@ Théo Daron - Cory De Groote - Léa Durant
 :toc:
 :title-page:
 :toc-title: Table des matières
+:pdf-theme: pdf.yml
 
 
 == Plan de l'exposé
