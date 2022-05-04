@@ -12,11 +12,11 @@ Alors bonjour a tous ! Nous allons donc vous parler d'Erasme. Nous commencerons 
 
 == Biographie
 
-D'après le site _Babelio_, un blog dirigé par 3 passionés de livres, Érasme serait né aux alentours des années 1465, une date plus précise n'est pas possible étant donné qu'Érasme est l'enfant illégitime d'un prêtre et d'une fille de médecin, il n'a donc pas été formellement déclaré à sa naissance.
+D'après le site _Babelio_, un blog dirigé par 3 passionnés de livres, Érasme serait né aux alentours des années 1465, une date plus précise n'est pas possible étant donné qu'Érasme est l'enfant illégitime d'un prêtre et d'une fille de médecin, il n'a donc pas été formellement déclaré à sa naissance.
 
 Lors de sa scolarité, il sera remarqué par l'église qui assurera son éducation et qui lui donnera une excellente formation de  _latiniste_.
 
-Érasme peut être qualifié de *self-made man*, c'est a dire qu'il s'est construit en partant de rien, il n'est pas né privilégié.
+Érasme peut être qualifié de *self-made man*, c'est à dire qu'il s'est construit en partant de rien, il n'est pas né privilégié.
 
 Ensuite vers ses 18 ans, il deviendra moine, pour ensuite devenir prêtre quelques années plus tard. Mais il s'arrangera pour avoir une certaine liberté, et il partira en voyage à travers toute l'Europe, et lors de ces voyages, il va intégrer des cercles humanistes, et il écrira également quelques manuels.
 
@@ -46,25 +46,25 @@ TODO: Trouver du contenu mdr
 
 === Le livre en général
 
-L'éloge de la folie est une *déclamation*. C'est a dire qu'elle est avant tout destinée a être lue et interpretée à voie haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes. En faisant cela, Érasme fait revenir un genre littéraire de l'Antiquité, l'éloge paradoxale. On retrouve donc ici encore une caractéristique de l'humanisme.Ce genre littéraire vise justement à faire l'éloge de ce qui est habituellement blâmé, la folie en l'occurence dans ce texte. Dans sa préface (la première partie du livre, précédant l'oeuvre), Érasme cite l'éloge de la mouche, une oeuvre Antique du même genre.
+L'éloge de la folie est une *déclamation*. C'est à dire qu'elle est avant tout destinée a être lue et interprétée à voix haute, et pas simplement comme un livre. Cela se rapproche plus du théatre. Elle a été écrite en _latin_ par Érasme en 1509, et c'est de loin son oeuvre la plus connue. Érasme fait parler la déesse Folie, qui va faire sa propre éloge aux hommes. En faisant cela, Érasme fait revenir un genre littéraire de l'Antiquité, l'éloge paradoxale. On retrouve donc ici encore une caractéristique de l'humanisme.Ce genre littéraire vise justement à faire l'éloge de ce qui est habituellement blâmé, la folie en l'occurrence dans ce texte. Dans sa préface (la première partie du livre, précédant l'oeuvre), Érasme cite l'éloge de la mouche, une oeuvre Antique du même genre.
 
-Érasme va dédier ce livre a *Thomas More*, figure célèbre de l'humanisme dont nous avons déja précédemment parlé, non pas parce qu'il le trouvait fou, mais à cause d'un simple jeu de mot. En grec, la folie se dit _Moria_, ce qui ressemble a _More_, le nom de famille de Thomas. <<Lacharite>>
+Érasme va dédier ce livre a *Thomas More*, figure célèbre de l'humanisme dont nous avons déjà précédemment parlé, non pas parce qu'il le trouvait fou, mais à cause d'un simple jeu de mot. En grec, la folie se dit _Moria_, ce qui ressemble a _More_, le nom de famille de Thomas. <<Lacharite>>
 
 === Analyse de deux extraits
 
 
 Le premier extrait est:
 [quote, Erasme, Éloge de la folie - Préface]
-Critiquer les moeurs des hommes sans attaquer personne nominativement, est-ce vraiment mordre? N'est-ce pas plutôt instruire et conseiller?
+Critiquer les moeurs des hommes sans attaquer personne nominativement, est-ce vraiment mordre ? N'est-ce pas plutôt instruire et conseiller ?
 
-Cet extrait se trouve dans la première partie du livre, la préface. Érasme explique que dans son oeuvre son objectif était d'instruire et de conseiller. Et c'est pour ça que, comme beaucoup d'humanistes a l'époque, il va se cacher derrière une histoire inventée (ici la folie qui fait sa propre éloge) afin de faire une critique constructive de l'humanité, sans pour autant viser certaines personnes, ce qui pourrait lui attirer des ennuis. On retrouve donc la une deux grandes caractéristiques de l'humanisme, c'est a dire la focalisation sur l'être humain, ainsi que l'éducation. Érasme tente même de faire les deux en même temps, il veut éduquer l'être humain afin de l'améliorer. C'est en accord avec la citation _"On ne nait pas homme, on le devient."_.
+Cet extrait se trouve dans la première partie du livre, la préface. Érasme explique que dans son oeuvre son objectif était d'instruire et de conseiller. Et c'est pour ça que, comme beaucoup d'humanistes à l'époque, il va se cacher derrière une histoire inventée (ici la folie qui fait sa propre éloge) afin de faire une critique constructive de l'humanité, sans pour autant viser certaines personnes, ce qui pourrait lui attirer des ennuis. On retrouve donc la une deux grandes caractéristiques de l'humanisme, c'est à dire la focalisation sur l'être humain, ainsi que l'éducation. Érasme tente même de faire les deux en même temps, il veut éduquer l'être humain afin de l'améliorer. C'est en accord avec la citation _"On ne nait pas homme, on le devient."_.
 
 Le second extrait que nous avons choisi est:
 
 [quote, Erasme, Éloge de la folie]
 La guerre n'est-elle pas la source et le théâtre de tous les hauts faits ? Or, quoi de plus fou que d'engager, à propos de je ne sais quoi, une pareille lutte, d'où il résulte toujours, pour les deux partis plus de mal que de bien ?
 
-Dans cet extrait, Érasme dit, au travers de la folie, que l'être humain est fou, qu'il est fou de faire la guerre et d'en tirer des actes héroïques, alors qu'au final il n'y à aucune guerre qui finisse bien pour qui que ce soit. On est donc à nouveau sur une critique de l'humain. Érasme veut faire réfléchir et il veut également amener cette réflexion à un apprentissage, à une évolution des conceptions et des idées du lecteur. Il veut rendre l'être humain meilleur.De plus, ici Érasme parle de la guerre, ce qui est également en lien avec l'humanisme, celui-ci étant en faveur de la paix et de la tolérance.
+Dans cet extrait, Érasme dit, au travers de la folie, que l'être humain est fou, qu'il est fou de faire la guerre et d'en tirer des actes héroïques, alors qu'il n'y a aucune guerre qui finisse bien pour qui que ce soit. On est donc à nouveau sur une critique de l'humain. Érasme veut faire réfléchir et il veut également amener cette réflexion à un apprentissage, à une évolution des conceptions et des idées du lecteur. Il veut rendre l'être humain meilleur.De plus, ici Érasme parle de la guerre, ce qui est également en lien avec l'humanisme, celui-ci étant en faveur de la paix et de la tolérance.
 
 
 [bibliography]
