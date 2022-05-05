@@ -6,3 +6,5 @@ heading:
    font-size: 13
  h3:
    font-size: 11
+blockquote:
+   font-size: 13
