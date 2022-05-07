@@ -3,9 +3,37 @@ Théo Daron - Cory De Groote - Léa Durant
 :title-page:
 :pdf-theme: pdf.yml
 
-== Babelio
+== Premier document
 
 image::babelio-erasme-1.png[Babelio-01]
 image::babelio-erasme-2.png[Babelio-02]
 
-Blablabla
+Ce document parle d'Érasme, c'est sa biographie, donc il est forcément pertinent pour un exposé sur Érasme
+
+.Fiabilité
+|===
+|Critère | Pour le doc
+
+
+|Auteur Contemporain
+|Peu fiable, l'auteur n'a pas vécu au moments des faits
+
+|Auteur Témoin
+|Fiable, Érasme à voyagé dans toute l'Europe, et l'auteur vit en France.
+
+|Auteur Compétent
+|Fiable, le site est leur travail à temps plein, et ils sont reconnus dans le milieu.
+
+|Intention
+|Fiable, l'auteur veut informer
+
+|Nature du document
+|Peu fiable, ce n'est pas un document officiel.
+
+|Destinataire
+|Fiable, le grand public. Ce n'est pas une commande privée. 
+
+
+|===
+
+Ce document peut donc être considéré comme relativement fiable.
