@@ -5,10 +5,12 @@ Théo Daron - Cory De Groote - Léa Durant
 
 == Premier document
 
+Erasme. (2020). Babelio. Consulté le 28 avril 2022, à l’adresse https://www.babelio.com/auteur/-Erasme/11219
+
 image::babelio-erasme-1.png[Babelio-01]
 image::babelio-erasme-2.png[Babelio-02]
 
-Ce document parle d'Érasme, c'est sa biographie, donc il est forcément pertinent pour un exposé sur Érasme
+Ce document parle d'Érasme, c'est sa biographie, donc il est forcément *pertinent* pour un exposé sur Érasme
 
 .Fiabilité
 |===
@@ -36,4 +38,35 @@ Ce document parle d'Érasme, c'est sa biographie, donc il est forcément pertine
 
 |===
 
-Ce document peut donc être considéré comme relativement fiable.
+Ce document peut donc être considéré comme relativement *fiable*.
+
+== Second Document
+
+Beauchamp, J., & Lacharité, C. (2022). Érasme, le prince des humanistes [Podcast]. Écouté le 18 avril 2022, sur https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/segments/entrevue/195225/erasme-prince-humanistes-claude-charite
+
+Ce document est un podcast parlant uniquement d'Érasme, il est donc *pertinent* pour un exposé sur celui-ci.
+
+.Fiabilité
+|===
+|Critère | Pour le doc
+
+
+|Auteur Contemporain
+|Peu fiable, l'auteur n'a pas vécu au moments des faits
+
+|Auteur Témoin
+|Peu fiable, l'auteur est canadien, il ne vit pas en Europe.
+
+|Auteur Compétent
+|Fiable, l'auteur est un professeur universitaire, il est donc compétent.
+
+|Intention
+|Fiable, l'auteur veut informer
+
+|Nature du document
+|Peu fiable, ce n'est pas un document officiel.
+
+|Destinataire
+|Fiable, le grand public. Ce n'est pas une commande privée. 
+
+|===
