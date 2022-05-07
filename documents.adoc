@@ -5,3 +5,7 @@ Théo Daron - Cory De Groote - Léa Durant
 
 == Babelio
 
+image::babelio-erasme-1.png[Babelio-01]
+image::babelio-erasme-2.png[Babelio-02]
+
+Blablabla
