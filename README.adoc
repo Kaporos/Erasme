@@ -38,7 +38,13 @@ Pour le côté religieux, Érasme a passé sa vie au milieu d'un grand dilemme, 
 
 == Novum Instrumentum
 
-TODO: Trouver du contenu mdr
+Le Novum Instrumentum Omne est une traduction du nouveau testament faite par Érasme. Et cette traduction a eu un immense impact sur la théologie, et un impact à long terme, même si a la base, publier cette oeuvre afin qu'elle devienne une de ses principales oeuvres n'était pas vraiment son but, son vrai but était de nettoyer la Vulgate, la traduction latine de Saint Jérome utilisée a l'époque. Cette traduction a été copiée au fil des ans pendant plus d'un millénaire, et s'est forcément corrompue au fil des ans, a cause d'erreurs de traduction, de raccourcis, ou de changements volontaires par les personnes ayant effectué ces copies. Et, selon Érasme, le seul moyen d'avoir la vraie version est de se fier aux textes anciens, donc les textes grecs. Mais malheureusement, les textes originaux n'existaient plus, ils avaient également étés copiés, et donc soumis aux mêmes problèmes que la Vulgate. Érasme a donc voulu reprendre toutes les versions grecques qu'il trouvait, et les comparer entre-elles afin d'essayer d'en reproduire la version originale.
+
+Érasme les a donc analysé dans leur ensemble afin de voir leur différences, et à certains moments, Érasme a du faire des choix pour savoir la version qu'il allait garder, ou pas. Mais Érasme ne s'est pas juste arrêté la, il a également rajouté à son oeuvre des _"Annotations"_, c'est a dire ses réflexions personelles sur la Vulgate et sa traduction, _Annotations_ qui prendront jusqu'a + de 400 pages. 
+
+Malgré tout, la version d'Érasme ne pouvait être parfaite. Érasme a nottament eu des difficultés a traduire l'Apocalypse, partie pour laquelle il ne possédait qu'une seule source, et pour laquelle il a du rétro-transcrire du latin en grec. Mais quelques années plus tard, Érasme a eu accès a d'autres sources, et il a pu corriger une bonne partie de ses erreurs
+
+Mais ce texte n'a pas satisfait tout le monde, et une grosse controverse est née. En effet, pas mal de gens pensaient que c'était les textes grecs, donc les sources d'Érasme, qui étaient le plus corrompus. Ces disputes, qui sont à l'heure actuelle une partie dédiée dans les dernières éditions de son oeuvre, l'ont poursuivi jusqu'a sa mort, en 1536. <<EvangileLiberte>>
 
 == Éloge de la folie
 
@@ -77,3 +83,5 @@ En conclusion, bien qu'Érasme ne soit pas né privilégié, il a parfaitement r
 
 
 * [[[Lacharite]]] Beauchamp, J., & Lacharité, C. (2022). Érasme, le prince des humanistes [Podcast]. Écouté le 18 avril 2022, sur https://ici.radio-canada.ca/ohdio/premiere/emissions/aujourd-hui-l-histoire/segments/entrevue/195225/erasme-prince-humanistes-claude-charite
+
+* [[[EvangileLiberte]]] Andrist, P. (s. d.). Érasme, le texte grec du Nouveau Testament. . . et l’ironie du destin. Évangile et Liberté. Consulté le 18 avril 2022, à l’adresse https://www.evangile-et-liberte.net/2020/12/la-bible-et-ses-langues/
