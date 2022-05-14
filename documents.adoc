@@ -111,8 +111,7 @@ Ce document peut donc être considéré comme relativement *fiable*.
 
 Ce document étant lui même une des oeuvre à analyser, il est *pertinent*
 
-image::eloge-1.png[eloge-1.png]
-image::eloge-2.png[eloge-2.png]
+image::eloge.png[eloge-1.png]
 
 .Fiabilité quatrième document
 |===
