@@ -109,5 +109,35 @@ Ce document peut donc être considéré comme relativement *fiable*.
 
 É., Holbein, H., & Develay, V. (2020). Éloge de la folie (annoté) : illustrations de Hans Holbein (Littérature) (French Edition). Philaubooks.
 
-Ce document étant lui même une oeuvre à analyser, il est *pertinent*
+Ce document étant lui même une des oeuvre à analyser, il est *pertinent*
 
+image::babelio-erasme-1.png[eloge-1.png]
+image::babelio-erasme-2.png[eloge-2.png]
+
+.Fiabilité quatrième document
+|===
+|Critère | Pour le doc
+
+
+|Auteur Contemporain
+|Peu fiable, l'auteur, Victor Nicolas Develay, n'a pas vécu aux moments de l'écriture du livre original
+
+|Auteur Témoin
+|Fiable, l'auteur était parisien, et érasme ayant voyagé dans toute l'Europe, l'auteur est témoin indirect.
+
+|Auteur Compétent
+|Fiable, Victor Nicolas Develay était un érudit et un traducteur, il est donc compétent
+
+|Intention
+|Fiable, l'auteur voulait juste traduire pour rendre le texte accessible a + de monde
+
+|Nature du document
+|Peu fiable, ce n'est pas un document officiel.
+
+|Destinataire
+|Fiable, le grand public. Ce n'est pas une commande privée. 
+
+
+|===
+
+Ce document peut donc être considéré comme relativement *fiable*.
