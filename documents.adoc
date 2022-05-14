@@ -5,11 +5,10 @@ Théo Daron - Cory De Groote - Léa Durant
 
 == Premier document
 
-Erasme. (2020). Babelio. Consulté le 28 avril 2022, à l’adresse https://www.babelio.com/auteur/-Erasme/11219
-
-
 image::babelio-erasme-1.png[Babelio-01]
 image::babelio-erasme-2.png[Babelio-02]
+
+Erasme. (2020). Babelio. Consulté le 28 avril 2022, à l’adresse https://www.babelio.com/auteur/-Erasme/11219
 
 Ce document parle d'Érasme, c'est sa biographie, donc il est forcément *pertinent* pour un exposé sur Érasme
 
