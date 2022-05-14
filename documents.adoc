@@ -70,3 +70,44 @@ Ce document est un podcast parlant uniquement d'Érasme, il est donc *pertinent*
 |Fiable, le grand public. Ce n'est pas une commande privée. 
 
 |===
+
+== Troisième document
+
+Andrist, P. (s. d.). Érasme, le texte grec du Nouveau Testament. . . et l’ironie du destin. Évangile et Liberté. Consulté le 18 avril 2022, à l’adresse https://www.evangile-et-liberte.net/2020/12/la-bible-et-ses-langues/
+
+image::babelio-erasme-1.png[evangile-et-liberte-1.png]
+image::babelio-erasme-2.png[evangile-et-liberte-2.png]
+
+Ce document parle uniquement du Novum Instrumente Omne, ce qui est un des sujets à aborder. Donc document *pertinent*
+
+.Fiabilité troisième document
+|===
+|Critère | Pour le doc
+
+
+|Auteur Contemporain
+|Peu fiable, l'auteur n'a pas vécu au moments des faits
+
+|Auteur Compétent
+|Fiable, Patrick Andrist est un chercheur universitaire. Il est donc compétent
+
+|Intention
+|Fiable, l'auteur veut informer
+
+|Nature du document
+|Peu fiable, ce n'est pas un document officiel.
+
+|Destinataire
+|Fiable, le grand public. Ce n'est pas une commande privée. 
+
+
+|===
+
+Ce document peut donc être considéré comme relativement *fiable*.
+
+== Quatrième document
+
+É., Holbein, H., & Develay, V. (2020). Éloge de la folie (annoté) : illustrations de Hans Holbein (Littérature) (French Edition). Philaubooks.
+
+Ce document étant lui même une oeuvre à analyser, il est *pertinent*
+
