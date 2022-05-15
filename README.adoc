@@ -8,7 +8,9 @@ Théo Daron - Cory De Groote - Léa Durant
 
 == Plan de l'exposé
 
-Bonjour à tous ! Nous allons vous parler d'un auteur humaniste, et plus précisément de Didier Erasme, également appelé Érasme de Rotterdam. Nous commencerons par une brève biographie. Ensuite, nous vous expliquerons les caractéristiques d'Érasme le rendant humaniste, avant de vous présenter deux de ses oeuvres, *Novum Instrumentum*  et *Éloge de la folie* en cherchant à vous donner quelques éléments qui font de lui un des plus grands humanistes de l’Histoire. 
+Bonjour à tous ! Nous allons vous parler d'un auteur humaniste, et plus précisément de Didier Erasme, également appelé Érasme de Rotterdam.
+
+Nous commencerons par une brève biographie. Ensuite, nous vous expliquerons les caractéristiques d'Érasme le rendant humaniste, avant de vous présenter deux de ses oeuvres, *Novum Instrumentum*  et *Éloge de la folie* en cherchant à vous donner quelques éléments qui font de lui un des plus grands humanistes de l’Histoire. 
 
 == Biographie
 
@@ -59,7 +61,7 @@ L'éloge de la folie est une *déclamation*. C'est à dire qu'elle est avant tou
 
 Le premier extrait est:
 [quote, Erasme, Éloge de la folie - Préface]
-Critiquer les mœurs des hommes sans attaquer personne nominativement, est-ce vraiment mordre ? N'est-ce pas plutôt instruire et conseiller ?
+Faire la critique de l'espèce humaine, sans fronder personne invividuellement, je le demande, est-ce mordre ? N'est-ce pas plutôt instruire et conseiller ?
 
 Érasme explique que dans son œuvre son objectif était d'instruire et de conseiller. Et c'est pour ça que, comme beaucoup d'humanistes à l'époque, il va se cacher derrière une histoire inventée (ici la folie qui fait son propre éloge) afin de faire une critique constructive de l'humanité, sans pour autant viser certaines personnes, ce qui pourrait lui attirer des ennuis. On trouve là une nouvelle caractéristique de l’humanisme, soit la focalisation sur l’être humain, ainsi que sur la possibilité de son perfectionnement, principalement par la critique et l’éducation.Érasme veut éduquer l'être humain afin de l'améliorer. C'est en accord avec la citation _"On ne naît pas homme, on le devient."_.
 
